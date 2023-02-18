@@ -1,0 +1,8 @@
+-------------------------
+
+Heliactyl 12.7.0 CSS
+Based on Corona Admin
+
+Source: https://www.bootstrapdash.com/product/corona-free
+Github: https://github.com/BootstrapDash/corona-free-dark-bootstrap-admin-template
+-------------------------
